@@ -1955,7 +1955,8 @@ body.visible-sidebar {
 .banner-section .slide-item .bg-image {
     position: absolute;
     left: -100px;
-    top: -25px;
+    bottom: 250px;
+    opacity: 0.2;
 }
 
 .banner-section .slide-item .text {
